@@ -67,6 +67,7 @@
         }   
         
         $(this).gmap3({
+            key: 'AIzaSyDd_z9V3PPm2Ro1EV7QPhwolrkyxDcxmNM',
             marker: {
                 values: [{
                     address: $(this).attr("data-address"),
