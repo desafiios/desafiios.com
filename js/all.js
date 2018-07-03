@@ -8503,7 +8503,7 @@ $.fn.gmap3 = function () {
                 }, 2000);
                 return false;
             }
-        } 
+        }
     });
 
     /* Team slideshow
@@ -8550,7 +8550,6 @@ $.fn.gmap3 = function () {
         }   
         
         $(this).gmap3({
-            key: 'AIzaSyDd_z9V3PPm2Ro1EV7QPhwolrkyxDcxmNM',
             marker: {
                 values: [{
                     address: $(this).attr("data-address"),
