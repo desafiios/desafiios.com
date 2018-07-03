@@ -1,3 +1,8 @@
+- name:
+  image:
+  email:
+  phone:
+
 - name: Isabel Afonso
   image: team.jpg
   email: email@gmail.com
@@ -7,4 +12,9 @@
   image: team.jpg
   email: email@gmail.com
   phone: 9659 43 21
+
+- name:
+  image:
+  email:
+  phone:
 
