@@ -1,8 +1,8 @@
 # Site settings
 title: Desafiios
 description: "Clínica de Desenvolvimento, Saúde e Formação"
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the name of your domain
+baseurl: "https://desafiios.com" # the subpath of your site, e.g. /blog
+url: "https://desafiios.com" # the name of your domain
 logo_url: img/logo.jpg
 
 # Hero
