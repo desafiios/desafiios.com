@@ -1,23 +1,35 @@
-- icon: icon-user-md
+- icon: icon-head
   title: Psicologia
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
+  description:
 
-- icon: icon-diamond
-  title: Terapia Ocupacional
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
-
-- icon: icon-flask
+- icon: icon-bubble-message
   title: Terapia da Fala
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+  description:
 
-- icon: icon-globe
+- icon: icon-abacus
+  title: Terapia Ocupacional
+  description:
+
+- icon: icon-hand
   title: Psicomotricidade
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
+  description:
 
-- icon: icon-ambulance
-  title: Terapias e Atividades Assistidas por Cavalos
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
-
-- icon: icon-bed
+- icon: icon-spoon-fork
   title: Nutrição
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
+  description:
+
+- icon: icon-book
+  title: Apoio Pedagógico (Ensino Especial)
+  description:
+
+- icon: icon-heart
+  title: Terapias Integrativas
+  description:
+
+- icon: icon-dog
+  title: Terapias e Atividades Assistidas por Animais
+  description:
+
+- icon: icon-typewriter
+  title: Formação
+  description:
