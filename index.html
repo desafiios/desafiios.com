@@ -17,7 +17,8 @@ layout: default
         
         <div class="col-sm-6 col-sm-offset-6 col-md-4 col-md-offset-8 form">
             <h3><svg class="icon icon-envelope-o"><use xlink:href="#icon-envelope-o"></use></svg>Pedido de Contacto</h3>
-            <form action="https://getsimpleform.com/messages?form_api_token={{ site.api_token }}" method="post">
+            <!-- https://github.com/dwyl/learn-to-send-email-via-google-script-html-no-server -->
+            <form id="gform" action="https://script.google.com/macros/s/AKfycbzXsQhOK_4Mhxkraoex2O0iC6rUnN_KoGB1cJorifzlTdf6pwQ/exec" method="POST">
                 <div class="form-field">
                     <input name="name" type="text" placeholder="Nome" required>
                 </div>
