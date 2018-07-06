@@ -1,41 +1,41 @@
 - name: Isabel Afonso
-  image: team.jpg
+  image: team_female.jpg
   email: geral@desafiios.com
   phone: 224 946 762
   job: Psicologia
 
 - name: Isa Chaves
-  image: team.jpg
+  image: team_female.jpg
   email: geral@desafiios.com
   phone: 224 946 762
   job: Psicologia
 
 - name: Renata Santos
-  image: team.jpg
+  image: team_female.jpg
   email: geral@desafiios.com
   phone: 224 946 762
   job: Terapia da Fala
 
 - name: Sofia Pinho
-  image: team.jpg
+  image: team_female.jpg
   email: geral@desafiios.com
   phone: 224 946 762
   job: Terapia Ocupacional
 
 - name: Sérgio Santos
-  image: team.jpg
+  image: team_male.jpg
   email: geral@desafiios.com
   phone: 224 946 762
   job: Psicomotricidade
 
 - name: Ricardo Castro
-  image: team.jpg
+  image: team_male.jpg
   email: geral@desafiios.com
   phone: 224 946 762
   job: Nutrição
 
 - name: Andreia Fiúza
-  image: team.jpg
+  image: team_female.jpg
   email: geral@desafiios.com
   phone: 224 946 762
   job: Apoio Pedagógico (EE)
