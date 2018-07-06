@@ -8511,7 +8511,7 @@ $.fn.gmap3 = function () {
     $("#team-carousel").owlCarousel({
  
         autoPlay: 5000, //Set AutoPlay to 5 seconds
-
+        startPosition: 1,
         items : 4,
         itemsDesktopSmall : [979,3],
         stopOnHover: true
